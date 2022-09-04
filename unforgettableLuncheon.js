@@ -162,3 +162,11 @@ function unforgettableLuncheon(food, guest={}) {
     guest.farewell();
     houseOnFire? console.log('% Heeeeelp! HEEEEEEEELP!!!') : null;
 }
+
+
+/** THIS SPACE INTENTIONALLY LEFT BLANK - DO NOT WRITE BELOW THIS LINE
+ * 
+ * 
+ * 
+ * 
+ OK */
