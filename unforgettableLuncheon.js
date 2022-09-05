@@ -22,7 +22,7 @@ function unforgettableLuncheon(food, guest={}) {
         const jingle = `\n♫ Skinner, with his crazy explanations,
         \nThe Superintendent's gonna need his medication.
         \nWhen he hears Skinner's lame exaggerations,
-        \nThere'll be trouble in town - tonight. ♪\n`
+        \nThere'll be trouble in town - tonight. ♪\n\n`
         return jingle;
     }
 
